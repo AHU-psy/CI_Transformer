@@ -1,2 +1,2 @@
 # CI-Transformer-
-Some code and dataset for Insulator semantic segmentation in infrared images of transmission lines based on contextual information interaction Transformer. More code and data will be made available later.
+Some code and dataset for Context_Interaction_Transformer_for_Insulator_Semantic_Segmentation_in_Infrared_Images. More code and data will be made available later.
