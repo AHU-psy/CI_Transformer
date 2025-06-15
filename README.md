@@ -7,10 +7,17 @@ We propose a semantic segmentation method for insulators in TL infrared images b
 
 
 
-
 ---
 Our code is based on the [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) image segmentation framework. We integrate our custom-designed CI Transformer as a head module within the mmsegmentation framework to enable training and evaluation.
 
 
 
 ---
+
+
+We release a dataset consists of 3,055 infrared images of transmission line insulators. The insulators in these images were annotated using the **Interactive Semi-Automatic Annotation Tool with Segment Anything**.
+You can download the dataset from the following link:
+[Download Dataset](https://drive.google.com/file/d/179GCvfT32noUsd2Uk7C0bLR3VmrM2NQY/view?usp=drive_link)
+
+---
+
