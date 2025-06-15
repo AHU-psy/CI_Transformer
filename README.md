@@ -48,3 +48,12 @@ We provide a dataset containing **3,055 infrared images** of transmission line i
 * For more details on configuration files and customization, refer to the [MMSegmentation documentation](https://mmsegmentation.readthedocs.io/en/latest/).
 
 ---
+
+## 📧 Contact
+
+For questions or issues, feel free to open an issue or contact the authors via the paper.
+
+```
+
+如果你还想添加实验结果展示（比如 Table、mIoU 图、可视化样例），或者是 `Installation` 部分，我也可以帮你扩展。
+```
