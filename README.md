@@ -1,7 +1,7 @@
 
 
 ````markdown
-# CI-Transformer
+## CI-Transformer
 
 Code and dataset for the paper:  
 **“Context Interaction Transformer for Insulator Semantic Segmentation in Infrared Images”**
