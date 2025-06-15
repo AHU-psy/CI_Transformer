@@ -102,12 +102,12 @@ model = dict(
         in_channels=2048,
         loss_decode=[
             dict(loss_weight=1, type='CrossEntropyLoss', use_sigmoid=False),
-            dict(loss_weight=10.0, type='BoundaryLoss'),
+            dict(loss_weight=2.0, type='BoundaryLoss'),
         ],
         num_classes=2,
         num_heads=12,
         num_layers=2,
-        type='CSTransformerHead'),
+        type='CITransformerHead'),
     pretrained='open-mmlab://resnet101_v1c',
     test_cfg=dict(crop_size=(
         640,
