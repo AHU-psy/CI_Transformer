@@ -12,7 +12,10 @@ We propose a semantic segmentation method for insulators in TL infrared images b
 # Training and Evaluationn
 Our code is based on the [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) image segmentation framework. We integrate our custom-designed CI Transformer as a head module within the mmsegmentation framework to enable training and evaluation.
 
+To train the model using your custom configuration, use:
 
+```bash
+python tools/train.py configs/ourcode/xxx.py
 
 ---
 # Dataset
