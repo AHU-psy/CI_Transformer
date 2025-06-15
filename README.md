@@ -1,7 +1,7 @@
-
+当然可以，以下是已经将 **Dataset** 和 **Notes** 内容格式化为与你前面段落一致风格的一体化版本，方便复制进 `README.md`：
 
 ````markdown
-## CI-Transformer
+# CI-Transformer
 
 Code and dataset for the paper:  
 **“Context Interaction Transformer for Insulator Semantic Segmentation in Infrared Images”**
@@ -42,18 +42,11 @@ We provide a dataset containing **3,055 infrared images** of transmission line i
 
 ---
 
-## 📌 Notes
+## 🛠️ Notes
 
 * Please ensure you have installed MMSegmentation and its dependencies before training.
-* For more details on configuration files and customization, refer to the [MMSegmentation documentation](https://mmsegmentation.readthedocs.io/en/latest/).
+* For environment setup and installation instructions, refer to the [MMSegmentation documentation](https://mmsegmentation.readthedocs.io/en/latest/).
+* Configuration files are located in `configs/ourcode/` and should be customized based on your experimental needs.
 
 ---
 
-## 📧 Contact
-
-For questions or issues, feel free to open an issue or contact the authors via the paper.
-
-```
-
-如果你还想添加实验结果展示（比如 Table、mIoU 图、可视化样例），或者是 `Installation` 部分，我也可以帮你扩展。
-```
