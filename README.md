@@ -1,6 +1,5 @@
-当然可以，以下是已经将 **Dataset** 和 **Notes** 内容格式化为与你前面段落一致风格的一体化版本，方便复制进 `README.md`：
 
-````markdown
+
 # CI-Transformer
 
 Code and dataset for the paper:  
