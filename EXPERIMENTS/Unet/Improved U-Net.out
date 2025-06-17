@@ -255,7 +255,7 @@ test_pipeline = [
 train_cfg = dict(
     max_iters=240000, type='IterBasedTrainLoop', val_interval=24000)
 train_dataloader = dict(
-    batch_size=2,
+    batch_size=4,
     dataset=dict(
         data_prefix=dict(img_path='image/train', seg_map_path='label/train'),
         data_root='data/Insulator/',
