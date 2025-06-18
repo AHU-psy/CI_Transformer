@@ -22,7 +22,7 @@ We propose a semantic segmentation method for insulators in transmission line (T
 ## 🔧 Installation
 
 Before training, install the required dependencies:
-```bash
+
 # [MMSegmentation core dependencies]([https://github.com/open-mmlab/mmsegmentation](https://mmsegmentation.readthedocs.io/zh-cn/latest/get_started.html))
 
 
