@@ -26,10 +26,11 @@ Before training, install the required dependencies:
 
 
 
-- Specialized libraries
-pip install pywt    
-pip install einops  
-
+- Specialized libraries:   
+ ```bash
+pip install pywt
+pip install einops 
+````
 ---
 
 ## 🚀 Training and Evaluation
