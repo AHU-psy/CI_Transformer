@@ -22,13 +22,13 @@ We propose a semantic segmentation method for insulators in transmission line (T
 ## 🔧 Installation
 
 Before training, install the required dependencies:
+-  [MMSegmentation dependencies](https://mmsegmentation.readthedocs.io/zh-cn/latest/get_started.html)
 
-- [MMSegmentation core dependencies](https://github.com/open-mmlab/mmsegmentation](https://mmsegmentation.readthedocs.io/zh-cn/latest/get_started.html)
 
 
--Specialized libraries
-pip install pywt     # For wavelet convolution
-pip install einops   # For rearrange operations
+- Specialized libraries
+pip install pywt    
+pip install einops  
 
 ---
 
